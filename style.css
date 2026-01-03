@@ -1,0 +1,14 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+.logo>svg {
+    background-color: white;
+    filter: invert(1);
+}
+
+.second{
+    border-bottom-color:black ;
+    border-top-color: black;
+}
